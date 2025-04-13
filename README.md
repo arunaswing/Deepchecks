@@ -24,4 +24,4 @@ Predict whether a user will rate a movie ≥ 4 using just `userId` and `movieId`
 
 
 ## 📜 Blog Post
-🔗 [Link to Medium post](Insert your blog URL)
+🔗 [[Link to Medium post](https://medium.com/@agopi5/057811cf395d)]
